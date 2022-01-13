@@ -1,0 +1,8 @@
+framework module "Golang_crash_test1" {
+	header "ref.h"
+    header "Crash.objc.h"
+    header "Universe.objc.h"
+    header "Golang_crash_test1.h"
+
+    export *
+}
